@@ -27,3 +27,6 @@ Praticar manipulação de DOM, eventos e organização de código em JavaScript.
 ---
 
 Desenvolvido por Antonio Gabriel 💻
+## 📸 Preview
+
+![Preview da aplicação](preview.png)
